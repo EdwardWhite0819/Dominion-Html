@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="dominionFormat.css">
+    </head>
+        <body>
+            <div class ='box'>
+                 <img src="dominion/logo.png" width="20%">
+                 <div class='corporate'>
+                     <input type = "submit"
+                     value="Corporate">
+                 </div>
+                 <input type="search" name "search">
+                 <img src="dominion/search_icon.png">
+            </div>
+                 <div class='Login'>
+                   <div class='manage'>
+                       
+                    <p><b>User Name:</b></p> 
+                    <div class='fill'>
+                    <input type="username" name"username">
+                    </div>
+                    <p><b>Password:</b></p>
+                    <input type="password" name"pw">
+                    <div class='signin'>
+                        <input type = "submit"
+                        value="Sign In">
+                    </div>
+                </div>
+                     <img src="dominion/main_pic.png" >
+                     <div class='news'>
+                    <p>News Update: Dominion to Build Solar Power Project in Georgia</p>
+                </div>
+                <div class='bottombox'>
+                    <img src=dominion/data_center.png width="20%">
+                    <p>Data centers are a growing segement of our Virginia customer base.</p>
+                </div>
+
+                <div class='bottombox'>
+                    <img src=dominion/green_solutions.png width="20%">
+                    <p>Save money, use energey efficienlty and help the environment</p>
+                </div> 
+                <div class='bottombox'>
+                    <img src=dominion/promise.png width="20%">
+                    <p>If Gov. Malloy breaks his word, Conneticut eletric rates could rise.</p>
+                </div>
+                <div class='info'>
+                    <p> Help / Legal Terms and Conditions / Privacy / Para Servirlos / Contract Us / Diversity</p>
+                </div>
+            </div>
+                
+                
+
+        
+
+        </body>
