@@ -1,0 +1,167 @@
+.background {
+    background-color:whitesmoke;
+    width:1100px;
+    height:1200px;
+    display:inline-block;
+    vertical-align:top;
+    margin-bottom:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+#navigation {
+    background-color:black;
+    height:40px;
+    margin-top:0px;
+    padding-top:20px;
+}
+
+#navigation li{
+display:inline-block;
+color:white;
+padding:10px;
+border-right:1px solid white
+}
+
+#navigation li:first-child{
+    border-right:0px;
+}
+
+#navigation li:last-child{
+    border-right:0px;
+}
+
+#navigation ul {
+    display:inline;
+}
+
+#navigation a{
+    text-decoration: none;
+    color: white;
+}
+
+li.title {
+    margin-right:100px;
+}
+
+.clearbox {
+    width:400px;
+    height:250px;
+    display:inline-block;
+    vertical-align:top;
+    margin-bottom:0px;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:100px;
+    padding:10px;
+}
+
+.button{ 
+    background:black;
+    border-radius:5px;
+    color:white;
+    width:120px;
+    height:30px;
+    display:inline-block;
+    cursor:pointer;
+    margin-left:150px;
+}
+
+.backgroundb {
+    width:1000px;
+    height:500px;
+    display:inline-block;
+    vertical-align:top;
+    border-top:2px solid gainsboro;
+}
+
+.infobox{
+    width:200px;
+    height:200px;
+    display:inline-block;
+    vertical-align:top;
+    border-right:2px solid gainsboro;
+    margin-top:25px;
+}
+
+.mainwaste {
+    background-color:white;
+    width:350px;
+    height:350px;
+    display:inline-block;
+    vertical-align:top;
+    padding:10px;
+    margin-top:25px;
+}
+
+.wastebox {
+    width:215px;
+    height:330px;
+    display:inline-block;
+    vertical-align:top;
+}
+
+.wasteboxpic {
+    background-color:white;
+    width:120px;
+    height:330px;
+    display:inline-block;
+    vertical-align:top;
+    margin-right:5px;
+}
+
+.blackbox{
+    background-color:black;
+    width:1100px;
+    height:255px;
+    display:inline-block;
+    vertical-align:top;
+    margin-top:0px;
+    margin-bottom:0px;
+    margin-left:0px;
+    margin-right:0px;
+}
+.welcome {
+    width:200px;
+    height:200px;
+    display:inline-block;
+    vertical-align:top;
+    color:white;
+    margin-right:80px;
+    padding:10px;
+}
+
+.want{
+    width:300px;
+    height:200px;
+    display:inline-block;
+    vertical-align:top;
+    color:white;
+    padding:10px;
+}
+
+.button2{
+    background:black;
+    border-radius:5px;
+    color:white;
+    width:120px;
+    height:30px;
+    display:inline-block;
+    cursor: pointer;
+    margin-left:200px;
+    padding:10px;
+}
+
+input[type=text] {
+    background-color:black;
+    color:white;
+}
+
+input[type=tel] {
+    background-color:black;
+    color:white;
+}
+
+p.copyright {
+    text-align:center;
+}
