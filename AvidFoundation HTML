@@ -1,0 +1,92 @@
+<html>
+        <head>
+                <title>AvidFoundation</title>
+                <meta charset="utf-8"/>
+                <link rel="stylesheet" href ="AvidFoundation.css">
+            </head>
+    <body>
+            <div class='background'>
+                    <ul id ="navigation">
+                            <img src="AvidPic/AvidLogo.jpg" width= "10%" alt="Computer">
+                        <li class="title">AvidFoundation</li>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Why Avid?</a></li>
+                        <li><a href="">Culture</a></li>
+                        <li><a href="">Benefits</a></li>
+                    </ul>
+                        <div class="clearbox">
+                            <h1><center>The AvidXchange Foundation</center></h1>
+                            <p><center>AvidXchange formed the Foundation to make a 
+                                    difference in children’s lives. We enable employees 
+                                    who are passionate about helping others give back to 
+                                    the community, and live our core value, “Have a Blast,” 
+                                    along the way! We have active Foundation leaders at 
+                                    all of our locations, and we are making a difference 
+                                    across the country thanks to all of our volunteers. 
+                                    In 2016, we volunteered more than 1,000 hours of our 
+                                    time. We’re always looking for community partners to 
+                                    help us expand our reach and help out with awesome 
+                                    programs that are already in the works!</center><p>
+                            <button class="button">Learn More >></button>
+                        </div>
+                            <img src="AvidPic/AvidFoundation1.jpg" alt="Foundation">
+                                <div class="backgroundb">
+                                        <img src='AvidPic/AvidFoundation2.jpg' width="28%" height="40%">
+                                        <div class="infobox">     
+                                        <h2>Maecenas</h2>
+                                            <h3>Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, 
+                                                consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, 
+                                                tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam
+                                                 ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. 
+                                            </h3>
+                                        </div><br>
+                                        <div class="infobox2">
+                                             <h2>Lorem Ipsum</h2>
+                                             <h3>Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur 
+                                                 ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. 
+                                                 Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. 
+                                                 In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. 
+                                                 Integer tincidunt. Cras dapibus. 
+                                             </h3>     
+                                        </div>
+                                        <img src='AvidPic/AvidFoundation3.jpeg' width="24.3%" ><br>
+                                        <img src='AvidPic/AvidFoundation5.jpg' width="26.2%" >
+                                        <div class="infobox3">
+                                            <h2>Phasellus</h2>
+                                            <h3>Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, 
+                                                sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. 
+                                                Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. 
+                                                Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales 
+                                                sagittis magna.
+                                            </h3>
+                                        </div>
+                                         </div>
+                                     </div>
+                                    <div class="blackbox">
+                                        <div class="welcome">
+                                            <h2>Solutions</h2>
+                                            <p>Accounts Payable Automation Software</p>
+                                            <p>Purcahse Order Software</p>
+                                            <p>Check Printing Software</p>
+                                            <p>Utility Bill Management Software</p>
+                                        </div>
+                                        <div class="welcome">
+                                            <h2>Resources</h2>
+                                            <p>e-Invoicing</p>
+                                            <p>Electronic Payments</p>
+                                            <p>Procure to Pay</p>
+                                            <p>ACH Transfers</p>
+                                            <p>Order to Cash</p>
+                                        </div>
+                                <div class="want">
+                                    <h2>Want us to get in touch with you</h2>
+                                    <p>Leave us your name, number and e-mail address and someone will gett in touch.</p>
+                                    <input type="text" name="name" placeholder="Name">
+                                    <input type="text" name="email" placeholder="Email">
+                                    <input type="text" name="phonenumber" placeholder="Phone no">
+                                    <button class="button2">Submit</button>
+                                </div>
+
+                </div>
+    <body>
+<html>
